@@ -33,5 +33,5 @@
 <li> Fixed GB Widget in some devices</li>
 <li> Other Fixes</li>
 
-","url":"www.zeeandroid.com"
+","url":"https://www.zemods.cc/2018/04/zewhatsapp.html"
 }
