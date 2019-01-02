@@ -1,4 +1,4 @@
-{"version_code":452559,"content":"
+{"version_code":22222,"content":"
 <p>تحديث 6.70</p>
 
 <li> 123التحديث لنسخة الماركت </li>
